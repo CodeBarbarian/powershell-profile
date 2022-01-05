@@ -1,29 +1,11 @@
 
-# Probable-Adventure  👋  
+# Powershell-Profile 👋  
 
-PowerShell Profile Private repo for my personal powershell profile. 
-I kinda like the Generate Name for repository on github, generates project names and I do not need to do anything
-
-
-## Production State ✅
-- No information available yet. Yet to find a auto test and deploy for powershell which can be used in conjunction with docker/k8s.
-
-
+Hi there! This repository contains my powershell profile which I use daily! You are absolutely welcome to grab the profile, and submit PR for changes! 
 
 ## 🔗 Authors
 
 - [@codebarbarian](https://www.github.com/codebarbarian)
-
-## 🤔 Approved Branching
-```bash
-3-word shortening of Username (usr)
-```
-- usr-task-reference
-- usr-feature-reference
-- usr-playground-reference
-- usr-dev-reference
-- usr-bug-reference
-- usr-doc-reference
 
 ## 🧠 Requirements
 
@@ -42,13 +24,6 @@ I kinda like the Generate Name for repository on github, generates project names
     The profile comes with everything you need to run it on your local system. Just make sure to to do everything
     that is described in the requirements section.
 ```
-    
-## 🛠 Troubleshooting
-
-```text
-No information avaiable
-```
-
 ## ⚡️ Features
 
 ### Fast Debugging (Non Interruptive Module Import)
